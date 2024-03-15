@@ -31,6 +31,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobs](https://ai-jobs.net/)
 * [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
+* [AI/ML Jobs Board](https://www.aijobs.ai/) | A curated list of the best AI jobs for developers, designers and marketers.
 
 
 ## Data
